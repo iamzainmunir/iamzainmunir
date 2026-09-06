@@ -78,12 +78,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamzainmunir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Zain's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamzainmunir&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/iamzainmunir?style=for-the-badge&logo=github&labelColor=1a1b27&color=0e75b6" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzainmunir&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzainmunir&hide_border=true&theme=tokyonight" alt="GitHub streak — total contributions, current & longest streak" />
 </p>
 
 <p align="center"><i>Backend by trade, shipping AI-assisted tooling by passion.</i></p>
