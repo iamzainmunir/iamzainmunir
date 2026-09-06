@@ -1,45 +1,89 @@
 <h1 align="center">Hi 👋, I'm Zain Munir</h1>
-<h3 align="center">Senior Backend Developer | Node.js · NestJS · TypeScript</h3>
+
+<h3 align="center">Senior Backend Developer — Node.js · NestJS · TypeScript</h3>
 
 <p align="center">
-  Building scalable microservices and RESTful APIs. EdTech & E-commerce.
+  I design and ship scalable microservices, event-driven systems, and clean REST APIs —
+  mostly in <b>EdTech</b> and <b>E-commerce</b>. I care about correct, observable, well-tested
+  services that are a pleasure to run in production.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamzainmunir&label=Profile%20views&color=0e75b6&style=flat" alt="iamzainmunir" /> </p>
-
-- 🔭 I'm currently working on [SimpliEd](https://simpliedtech.com/)
-- 🌱 I'm currently learning **AWS, Docker, NodeJs (Advance), Python**
-- 👯 I'm looking to collaborate on **NodeJs** projects
-- 📫 How to reach me **iam.zainmunir@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iam-zain-munir/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iam-zain-munir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-zain-munir" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/iam-zain-munir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:iam.zainmunir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iamzainmunir&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+---
+
+### 👨‍💻 About me
+
+- 🔭 &nbsp;Currently building **[SimpliEd](https://simpliedtech.com/)** — an EdTech platform (microservices + APIs at scale).
+- 🚀 &nbsp;Building **[Shipwright](https://github.com/iamzainmunir/shipwright)** — an autonomous AI software company (see below).
+- 🌱 &nbsp;Deepening my craft in **AWS, Docker, advanced Node.js, and Python**.
+- 👯 &nbsp;Open to collaborating on **Node.js / NestJS** and **AI-assisted developer tooling**.
+- 💬 &nbsp;Ask me about **microservices, API design, message queues, and PostgreSQL**.
+- 📫 &nbsp;Reach me at **iam.zainmunir@gmail.com**.
+
+---
+
+### 🚧 Featured Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **[Shipwright](https://github.com/iamzainmunir/shipwright)** | An autonomous AI software company — you file a ticket and a team of AI agents (PM, CTO, engineers, QA, DevOps) takes it from spec through build, review, QA, and ship, handing back a running app. | Next.js · FastAPI · PostgreSQL · Python · TypeScript | 🟢 Active development |
+| **[SimpliEd](https://simpliedtech.com/)** | EdTech platform — scalable backend services and REST APIs powering the product. | NestJS · Node.js · PostgreSQL · Redis | 🟢 In production |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Messaging & Realtime**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamzainmunir&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Zain's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamzainmunir&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamzainmunir&show_icons=true&locale=en&layout=compact" alt="iamzainmunir" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzainmunir&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamzainmunir&show_icons=true&locale=en" alt="iamzainmunir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamzainmunir&" alt="iamzainmunir" /></p>
+<p align="center"><i>Backend by trade, shipping AI-assisted tooling by passion.</i></p>
