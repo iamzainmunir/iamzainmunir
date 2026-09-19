@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain Munir</h1>
 
-<h3 align="center">Senior Backend Developer — Node.js · NestJS · TypeScript</h3>
+<h3 align="center">Software Architect — Node.js · NestJS · Distributed Systems</h3>
 
 <p align="center">
   I design and ship scalable microservices, event-driven systems, and clean REST APIs —
@@ -24,6 +24,7 @@
 
 - 🔭 &nbsp;Currently building **[SimpliEd](https://simpliedtech.com/)** — an EdTech platform (microservices + APIs at scale).
 - 🚀 &nbsp;Building **[Shipwright](https://github.com/iamzainmunir/shipwright)** — an autonomous AI software company (see below).
+- 🧰 &nbsp;Also building **[DevPulse](https://github.com/iamzainmunir/pr-tracker)** (Slack-native PR & sprint analytics) and **[StockWise](https://github.com/iamzainmunir/stockwise)** (offline-first inventory platform).
 - 🌱 &nbsp;Deepening my craft in **AWS, Docker, advanced Node.js, and Python**.
 - 👯 &nbsp;Open to collaborating on **Node.js / NestJS** and **AI-assisted developer tooling**.
 - 💬 &nbsp;Ask me about **microservices, API design, message queues, and PostgreSQL**.
@@ -37,6 +38,8 @@
 |---|---|---|---|
 | **[Shipwright](https://github.com/iamzainmunir/shipwright)** | An autonomous AI software company — you file a ticket and a team of AI agents (PM, CTO, engineers, QA, DevOps) takes it from spec through build, review, QA, and ship, handing back a running app. | Next.js · FastAPI · PostgreSQL · Python · TypeScript | 🟢 Active development |
 | **[SimpliEd](https://simpliedtech.com/)** | EdTech platform — scalable backend services and REST APIs powering the product. | NestJS · Node.js · PostgreSQL · Redis | 🟢 In production |
+| **[DevPulse](https://github.com/iamzainmunir/pr-tracker)** | A Slack-driven, read-only PR & sprint tracker — paste a pull-request link in Slack and it parses PR, approval, merge, and deploy signals into per-team dashboards, sprint metrics, and developer leaderboards. Multi-provider (GitHub, GitLab, Bitbucket, Azure DevOps). | Next.js 15 · TypeScript · Drizzle · PostgreSQL · NextAuth | 🟢 Open source |
+| **[StockWise](https://github.com/iamzainmunir/stockwise)** | Offline-first, multi-currency inventory & business platform for SMBs — multi-branch inventory, customer & vendor ledgers, payroll, expenses, and sales with printable invoices. | Next.js · Prisma · PostgreSQL · PWA · Docker | 🟢 Open source |
 
 ---
 
@@ -53,6 +56,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Databases & Cache**
 
@@ -64,6 +68,7 @@
 **Messaging & Realtime**
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **DevOps & Cloud**
